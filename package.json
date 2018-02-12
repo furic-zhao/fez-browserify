@@ -1,0 +1,41 @@
+{
+  "name": "fez-browserify",
+  "version": "1.0.0",
+  "description": "fez-browserify",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/furic-zhao/fez-browserify.git"
+  },
+  "keywords": [
+    "fez",
+    "browserify"
+  ],
+  "author": "furic-zhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/furic-zhao/fez-browserify/issues"
+  },
+  "homepage": "https://github.com/furic-zhao/fez-browserify#readme",
+  "dependencies": {
+    "babelify": "^8.0.0",
+    "browserify": "^15.2.0",
+    "browserify-css": "^0.14.0",
+    "browserify-shim": "^3.8.14",
+    "cssify": "^1.0.3",
+    "envify": "^4.1.0",
+    "gulp-cached": "^1.1.1",
+    "gulp-jshint": "^2.1.0",
+    "gulp-strip-debug": "^2.0.0",
+    "handlebars": "^4.0.11",
+    "hbsfy": "^2.8.1",
+    "jshint": "^2.9.5",
+    "lessify": "^1.0.1",
+    "preprocessify": "^1.0.1",
+    "pugify": "^2.2.0",
+    "vinyl-source-stream": "^2.0.0",
+    "vueify": "^9.4.1",
+    "watchify": "^3.10.0"
+  }
+}
